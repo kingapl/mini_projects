@@ -7,9 +7,10 @@ This repository made for learning programming in Python.
 ## Table of contents
 * collatz conjecture
 * fibonacci sequence
-* find_numbers
+* find numbers
 * fizzbuzz
 * guess the number
+* letters counter
 * palindrome
 * reverse string
 * words counter
@@ -28,6 +29,9 @@ This program shows the user a hundred numbers, however, if the number is divisib
 
 ## Guess the number
 This project is a mini game. Computer draws a number and asks the user to guess the number.
+
+## Letters counter
+A program that counts how many letters are in the text and shows how many times each letter appears in the text.
 
 ## Palindrome
 This application reverses a user-written string and checks if is palindrome.
