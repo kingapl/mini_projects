@@ -7,6 +7,7 @@ This repository made for learning programming in Python.
 ## Table of contents
 * collatz conjecture
 * fibonacci sequence
+* find_numbers
 * fizzbuzz
 * guess the number
 * palindrome
@@ -18,6 +19,9 @@ This app asks the user for a positive natural number, then from that number it p
 
 ## Fibonacci sequence
 This project asks the user for a number and then displays as many Fibonacci numbers as the user wanted.
+
+## Find numbers
+The program that finds the smallest and largest numbers in the list.
 
 ## Fizzbuzz
 This program shows the user a hundred numbers, however, if the number is divisible by 3, it shows "Fizz", if the number is divisible by 5, it shows "Buzz", and if the number is divisible by 3 and 5, the program shows "FizzBuzz".
