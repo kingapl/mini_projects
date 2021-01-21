@@ -5,15 +5,15 @@ A collection of simple Python programs.
 This repository made for learning programming in Python.
 
 ## Table of contents
-* collatz conjecture
-* fibonacci sequence
-* find numbers
-* fizzbuzz
-* guess the number
-* letters counter
-* palindrome
-* reverse string
-* words counter
+* [collatz conjecture](##-Collatz-conjecture)
+* [fibonacci sequence](##-Fibonacci-sequence)
+* [find numbers](##-Find-numbers)
+* [fizzbuzz](##-Fizzbuzz)
+* [guess the number](##-Guess-the-number)
+* [letters counter](##-Letters-counter)
+* [palindrome](##-Palindrome)
+* [reverse string](##-Reverse-string)
+* [words counter](##-Words-counter)
 
 ## Collatz conjecture
 This app asks the user for a positive natural number, then from that number it performs calculations until the number is one.
