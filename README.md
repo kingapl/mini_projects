@@ -13,6 +13,7 @@ This repository made for learning programming in Python.
 * [letters counter](#Letters-counter)
 * [palindrome](#Palindrome)
 * [reverse string](#Reverse-string)
+* [rock paper scissors](#Rock-paper-scissors)
 * [words counter](#Words-counter)
 
 ## Collatz conjecture
@@ -38,6 +39,11 @@ This application reverses a user-written string and checks if is palindrome.
 
 ## Reverse string
 This application reverses a user-written string.
+
+## Rock paper scissors
+The user is playing with the computer.
+The game consists in choosing one of three symbols: "paper", "stone" or "scissors".
+"Paper" beats "stone", "stone" beats "scissors" and "scissors" beats "paper". The player wins if the symbol chosen by him beats the symbol chosen by the computer.
 
 ## Words counter
 In this project user is prompted to enter text and next the program counts words in the string.
