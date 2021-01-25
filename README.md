@@ -11,6 +11,7 @@ This repository made for learning programming in Python.
 * [fizzbuzz](#Fizzbuzz)
 * [guess the number](#Guess-the-number)
 * [letters counter](#Letters-counter)
+* [number game simulator](#Number-game-simulator)
 * [palindrome](#Palindrome)
 * [reverse string](#Reverse-string)
 * [rock paper scissors](#Rock-paper-scissors)
@@ -33,6 +34,9 @@ This project is a mini game. Computer draws a number and asks the user to guess 
 
 ## Letters counter
 A program that counts how many letters are in the text and shows how many times each letter appears in the text.
+
+## Number game simulator
+A number game simulator in which the player enters five numbers. Then the computer draws five numbers and checks how many of them are the same as given by the player.
 
 ## Palindrome
 This application reverses a user-written string and checks if is palindrome.
