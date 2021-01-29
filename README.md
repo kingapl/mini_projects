@@ -16,6 +16,7 @@ This repository made for learning programming in Python.
 * [palindrome](#Palindrome)
 * [reverse string](#Reverse-string)
 * [rock paper scissors](#Rock-paper-scissors)
+* [weather](#Weather)
 * [words counter](#Words-counter)
 
 ## Collatz conjecture
@@ -52,6 +53,9 @@ This application reverses a user-written string.
 The user is playing with the computer.
 The game consists in choosing one of three symbols: "paper", "stone" or "scissors".
 "Paper" beats "stone", "stone" beats "scissors" and "scissors" beats "paper". The player wins if the symbol chosen by him beats the symbol chosen by the computer.
+
+## Weather
+Simple program showing the user the weather in the city entered by the user.
 
 ## Words counter
 In this project user is prompted to enter text and next the program counts words in the string.
