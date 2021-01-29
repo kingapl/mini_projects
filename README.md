@@ -55,7 +55,7 @@ The game consists in choosing one of three symbols: "paper", "stone" or "scissor
 "Paper" beats "stone", "stone" beats "scissors" and "scissors" beats "paper". The player wins if the symbol chosen by him beats the symbol chosen by the computer.
 
 ## Weather
-Simple program showing the user the weather in the city entered by the user.
+Simple program showing the user the weather in the city entered by the user. Program use API https://www.metaweather.com/api/.
 
 ## Words counter
 In this project user is prompted to enter text and next the program counts words in the string.
