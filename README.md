@@ -5,6 +5,7 @@ A collection of simple Python programs.
 This repository made for learning programming in Python.
 
 ## Table of contents
+* [cats facts](#Cats-facts)
 * [collatz conjecture](#Collatz-conjecture)
 * [fibonacci sequence](#Fibonacci-sequence)
 * [find numbers](#Find-numbers)
@@ -18,6 +19,9 @@ This repository made for learning programming in Python.
 * [rock paper scissors](#Rock-paper-scissors)
 * [weather](#Weather)
 * [words counter](#Words-counter)
+
+## Cats facts
+This program shows facts about cats. Program use API https://alexwohlbruck.github.io/cat-facts/.
 
 ## Collatz conjecture
 This app asks the user for a positive natural number, then from that number it performs calculations until the number is one.
