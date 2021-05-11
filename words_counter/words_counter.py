@@ -1,9 +1,8 @@
-text = input("Wpisz tekst: ")
-
 def count_words(text):
-    words = text.split()
+    return len(text.split())
 
-    return len(words)
+
+text = input("Wpisz tekst: ")
 
 words = count_words(text)
 print(f"Liczba słów w tekście: {words}.")
